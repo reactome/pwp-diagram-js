@@ -4,7 +4,7 @@ import com.google.gwt.core.client.EntryPoint;
 import org.timepedia.exporter.client.ExporterUtil;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class Main implements EntryPoint {
 
