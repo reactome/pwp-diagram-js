@@ -19,7 +19,7 @@ import java.util.Objects;
 import java.util.Set;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class DiagramLoader implements ContentClientHandler.ObjectLoaded<DatabaseObject>, ContentClientHandler.AncestorsLoaded, ContentLoadedHandler {
 
